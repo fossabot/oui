@@ -1,4 +1,5 @@
 ![OpenSearch logo](https://opensearch.org/assets/img/opensearch-logo-themed.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpstnslv%2Foui.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpstnslv%2Foui?ref=badge_shield)
 # OpenSearch UI Framework
 
 - [Welcome!](#welcome)
@@ -60,6 +61,9 @@ This project has adopted the [Amazon Open Source Code of Conduct](CODE_OF_CONDUC
 ## License
 
 This project is licensed under the [Apache v2.0 License](LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpstnslv%2Foui.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpstnslv%2Foui?ref=badge_large)
 
 ## Copyright
 
